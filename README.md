@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **responsive-homepage**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **CSS** and I will learn JavaScript, Bootstrap CSS Framework, React JS, and etc in the future.
 
 - 👨‍💻 All of my projects are available at [github.com/chelseaoktaviany](github.com/chelseaoktaviany)
 
