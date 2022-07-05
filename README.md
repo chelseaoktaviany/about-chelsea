@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Chelsea Oktaviany</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **responsive-homepage**
 
 - 🌱 I’m currently learning **CSS** and I will learn **JavaScript/JS ES6**, **Bootstrap**, **React JS**, and etc in the future.
 
