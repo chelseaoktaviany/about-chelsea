@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/chelseaoktaviany](github.com/chelseaoktaviany)
 
-- 📫 How to reach me **chelseaoktaviany97@gmail.com**
+- 📫 How to reach me **@chelseaoktaviany at linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
